@@ -5,8 +5,7 @@ This React Native application fetches user information from a public API and dis
 
 ## Output 
 ![Screenshot_2023-12-27-20-42-52-760_host exp exponent](https://github.com/Avadhesh817/User-Information-App/assets/95118796/6c578eb4-ad88-44dd-ad62-6ea28bea9699)
-![Uploading ezgif.com-video-to-gif-converter.gif…]()
-
+![ezgif com-video-to-gif-converter](https://github.com/Avadhesh817/User-Information-App/assets/95118796/c05d26a7-3599-4990-854e-d8ae8b4bbc7d)
 
 
 ## How to Run the Application Locally
