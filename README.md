@@ -19,9 +19,7 @@ npm install
 or
 yarn install
 4. Start the Expo server:
-npm start
-or
-yarn start
+npx expo start
 5. Use the Expo Go app on your mobile device or an emulator to scan the QR code or run in a web browser.
 
 ## Additional Notes
