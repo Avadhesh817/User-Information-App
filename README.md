@@ -6,7 +6,7 @@ This React Native application fetches user information from a public API and dis
 ## Output 
 <img src="https://github.com/Avadhesh817/User-Information-App/assets/95118796/6c578eb4-ad88-44dd-ad62-6ea28bea9699" alt="Screenshot" width="400" height="800">  
 
-<img src="assets/95118796/c05d26a7-3599-4990-854e-d8ae8b4bbc7d" width="400" height="800">
+![gif of app](https://github.com/Avadhesh817/User-Information-App/assets/95118796/c05d26a7-3599-4990-854e-d8ae8b4bbc7d)
 
 
 
